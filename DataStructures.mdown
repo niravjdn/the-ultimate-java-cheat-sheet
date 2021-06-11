@@ -407,6 +407,11 @@ public class Queue {
 
 ### `Deque` - Interface
 
+### Arrays Class
+
+* Arrays.stream(stones).sum();
+* Arrays.stream(dp).forEach(a -> Arrays.fill(a, -1));
+      
 
 ## Trees
 
