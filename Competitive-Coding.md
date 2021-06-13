@@ -2,6 +2,7 @@
 - Think how would you solve manually
 - Think about hashmap - whether it can be used or not
 - Think of sliding winow in array/string problems
+- If it's square - path -> think about DFS/BFS
 
 
 # Java Shortcuts
