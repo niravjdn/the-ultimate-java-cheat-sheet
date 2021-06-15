@@ -8,6 +8,12 @@
 # Java Shortcuts
 
 Arrays.stream(stones).sum();
+
 Arrays.stream(dp).forEach(a -> Arrays.fill(a, -1));
+
+Arrays.stream(list)
+            .distinct()
+            .count() <= 1;
+
       
       
