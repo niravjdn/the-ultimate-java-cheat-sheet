@@ -17,5 +17,8 @@ Arrays.stream(list)
             
 System.out.println(Arrays.deepToString(array));
 
+* Long declaration 
+ long mod = 1_000_000_007;
+
       
       
